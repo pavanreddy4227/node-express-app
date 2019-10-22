@@ -24,12 +24,13 @@ app.get('/', function (req, res) {
     '/big <br>' +
     '/json <br>' +
     '/greeting/yourname <br>' +
-    '/yo/Dr.Rogers <br>' +
+    '/yo/Mr.Pavan Sai Kumar Reddy Kamjula <br>' +
     '/fortune <br>' +
-    '/fancy/?first=Denise&last=Case <br>' +
+    '/fancy/?first=Pavan Sai Kumar Reddy&last=Kamjula <br>' +
     '<br> <br>' +
-    'Fork the source code from <a href="https://github.com/denisecase/node-express-app">https://github.com/denisecase/node-express-app</a>'
-  )
+    'Fork the source code from <a href="https://github.com/pavanreddy4227/node-express-app">https://github.com/pavanreddy4227/node-express-app</a>'
+    'Here is the link for MS-ACS Site <a href="https://www.facebook.com/Northwest-MS-Applied-Computer-Science-207596409257323/">https://www.facebook.com/Northwest-MS-Applied-Computer-Science-207596409257323/</a>'
+    )
 })
 
 // or use the new arrow function syntax
