@@ -28,7 +28,7 @@ app.get('/', function (req, res) {
     '/fortune <br>' +
     '/fancy/?first=Pavan Sai Kumar Reddy&last=Kamjula <br>' +
     '<br> <br>' +
-    'Fork the source code from <a href="https://github.com/pavanreddy4227/node-express-app">https://github.com/pavanreddy4227/node-express-app</a>'+
+    'Fork the source code from <a href="https://github.com/pavanreddy4227/node-express-app">https://github.com/pavanreddy4227/node-express-app</a><br><br>'+
     'Here is the link for MS-ACS Site <a href="https://www.facebook.com/Northwest-MS-Applied-Computer-Science-207596409257323/">https://www.facebook.com/Northwest-MS-Applied-Computer-Science-207596409257323/</a>'
     )
 })
